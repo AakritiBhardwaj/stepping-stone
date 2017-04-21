@@ -1,4 +1,4 @@
-## Welcome to my Website
+## <b>Welcome to my Blog</b>
 
 You can use the [editor on GitHub](https://github.com/AakritiBhardwaj/stepping-stone/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
